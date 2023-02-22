@@ -27,6 +27,9 @@ int main(){
         case '/':
             resultado = num1 / num2;
             break;
+        default:
+            cout << "Operação inválida\n";
+            break;
     }
     cout << "*******************************";
     return 0;
