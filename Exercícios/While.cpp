@@ -1,11 +1,14 @@
 #include <iostream>
 
-int main(){
-    std::string nome;
-    while(nome.empty()){
-        std::cout << "Qual seu nome: ";
-        std::getline(std::cin, nome);
-    }
-    std::cout << "Olá" << nome;
+int main() {
+    int numero;
+
+    do {
+        std::cout << "Digite um número entre 1 e 10: ";
+        std::cin >> numero;
+    } while (numero < 1 || numero > 10);
+
+    std::cout << "Você digitou o número " << numero << std::endl;
+
     return 0;
 }
