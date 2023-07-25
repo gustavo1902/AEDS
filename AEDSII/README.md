@@ -1,4 +1,5 @@
 Algoritmos e Estrutura de Dados II
+
 1.0. Árvores de Pesquisa
 
 1.1. Árvores Binárias

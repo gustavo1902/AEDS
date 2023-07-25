@@ -1,4 +1,5 @@
 Algoritmos e estrutura de Dados III
+
 1.0. Complexidade de algoritmos e classes de complexidade
 
 1.1. NP-Completude

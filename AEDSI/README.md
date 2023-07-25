@@ -1,4 +1,5 @@
 Algoritmos e Estrutura de Dados I
+
 1.0. Tipos abstratos de dados
 
 1.1. Introdução
