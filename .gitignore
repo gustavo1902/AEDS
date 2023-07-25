@@ -1,6 +1,7 @@
 # Ignorar arquivos sem extensão
-.*
+*.
 
 # Ignorar arquivos executáveis (por exemplo, após compilar)
 *.out
 *.exe
+
