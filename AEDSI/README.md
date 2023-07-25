@@ -1,13 +1,13 @@
-Algoritmos e Estrutura de Dados I
+## Algoritmos e Estrutura de Dados I
 
 
-1.0. Introdução
+## 1. Introdução
 
 1.1. Tipos abstratos de dados
 
 1.2. Definição de tipos abstratos de dados
 
-2.0. Listas Lineares
+2. Listas Lineares
 
 2.1. Definição do TAD Lista
 
