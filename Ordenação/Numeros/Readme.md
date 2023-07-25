@@ -1,1 +1,0 @@
-Este código permite ao usuário informar uma lista de números e escolher um dos algoritmos de ordenação disponíveis para ordená-la. O resultado da ordenação é exibido na tela. Além disso, caso o usuário escolha uma opção inválida, o programa encerra com um código de erro.
