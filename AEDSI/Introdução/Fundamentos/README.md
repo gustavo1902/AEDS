@@ -66,6 +66,4 @@ Abertura, utilização e fechamento de arquivos.
 
 **9. Recursividade**
 
-Conceitos básicos.
-
 Exemplos de recursividade.
