@@ -3,9 +3,11 @@
 
 #### 1. Introdução
 
-1.1. Tipos abstratos de dados
+1.1. Fundamentos
 
-1.2. Definição de tipos abstratos de dados
+1.2. Tipos abstratos de dados
+
+1.3. Definição de tipos abstratos de dados
 
 #### 2. Listas Lineares
 
