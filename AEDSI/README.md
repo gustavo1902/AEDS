@@ -35,7 +35,7 @@
 
 4.3. Fila por meio de apontadores
 
-#### 5. Introdução à análise de complexidade dealgoritmos
+#### 5. Introdução à análise de complexidade de algoritmos
 
 5.1. Conceito de tempo de execução
 
